@@ -1,7 +1,7 @@
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
+![Sample Image](https://www.supplychainbrain.com/ext/resources/2022/09/01/WALMART-STOREFRONT-iStock-1205217071.webp?t=1662091453&width=1080)
 
 
-# Walmart-Sales-Data-Analysis-SQL-Project
+# Walmart Sales Data Analysis SQL Project
 ## About
 We are analysing Walmart's sales data to identify high-performing branches and products, analyze the sales patterns of various products, and understand customer behavior. The primary objective is to enhance and optimize sales strategies. The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
 
